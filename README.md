@@ -4,3 +4,5 @@ Jobs police EMS (il n'y a plus de véhicule modée pour le moment du au 2ms que 
 ![image](https://user-images.githubusercontent.com/106872254/172000963-4956eef9-c407-4860-862f-a5e8173dc6f1.png)
 
 Attention, de plus je suis sur une base de Police Jobs déja faite je n'est que ajouter des compléments, (je n'ai pas pu créditer le créateur du job de base, désolé a lui!).
+
+D'autres majs arriveront lundi 06/06/2022 
